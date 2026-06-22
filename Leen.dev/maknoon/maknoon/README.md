@@ -1,5 +1,7 @@
 # مَكنون (Maknoon)
 
+ليونه
+
 A Flutter app for storing and managing receipts, warranties, return/exchange deadlines, and subscription renewals — with local reminders before anything expires.
 
 **Local-first** — all data lives on the device in Hive. No login, no cloud, fully offline.
